@@ -554,8 +554,8 @@
       $vlPedido = addslashes($_POST['vl_item']);
       $idCardapio = addslashes($_POST['id_cardapio']);
       $p->cadastrarPedido($idUsuario, $vlPedido, $idCardapio);
-     // header("location: meus_pedidos.php");
     }
+
     ?>
   </body>
 </html>

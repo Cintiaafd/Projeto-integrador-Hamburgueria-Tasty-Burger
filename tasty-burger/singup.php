@@ -29,7 +29,7 @@ $u = new Usuario;
         <input type="text"  name="telefone" class="field" placeholder="Telefone" maxlength="30">
         <input type="email" name="email" class="field" placeholder="Email" maxlength="40">
         <input type="password" name="senha" class="field" placeholder="Senha" maxlength="32">
-        <input type="password" name="confSenha" class="field" placeholder="Senha" maxlength="32">
+        <input type="password" name="confSenha" class="field" placeholder="Confirme sua Senha" maxlength="32">
         <input type="checkbox" class="check_box">
         <p>Lembrar senha</p>
         <button type="submit" class="submit_btn">Cadastrar</button>
