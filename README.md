@@ -2,7 +2,8 @@
 
 ## Projeto desenvolvido pelo grupo 8
 
-<h3>Curso:  Análise de soluções integradas para organizações </h3>
+<h3>Curso:  Análise e Desenvolvimento de Sistemas </h3>
+<h3>Disciplina:  Análise de soluções integradas para organizações </h3>
 
 <h3>:woman_teacher: Professora:&nbsp;Débora Richter</h3>
 </br>
