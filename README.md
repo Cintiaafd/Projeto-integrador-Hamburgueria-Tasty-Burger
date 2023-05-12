@@ -2,7 +2,8 @@
 
 ## Projeto desenvolvido pelo grupo 8
 
-<h3>Curso:  Análise de soluções integradas para organizações </h3>
+<h3>Curso:  Análise e Desenvolvimento de Sistemas </h3>
+<h3>Disciplina:  Análise de soluções integradas para organizações </h3>
 
 <h3>:woman_teacher: Professora:&nbsp;Débora Richter</h3>
 </br>
@@ -61,7 +62,7 @@ Ademais, as páginas foram implementadas usando PHP em conjunto com bancos de da
 <h2> Demonstração do projeto</h2>
 <h3>Tela de Login com tela de cadastro de novo usuário</h3>
 
-![tela-login-cadastro](https://github.com/gilvannas/projeto_vaquinha/assets/76489700/52f92462-7fde-4c88-88ad-7b176ad3f566)
+![tela-login-cadastro](https://github.com/Cintiaafd/Projeto-integrador-Hamburgueria-Tasty-Burger/assets/76489700/c92cf7d4-8632-4c70-bae5-baa3c9aec240)
 <br>
 A tela de login da hamburgueria permitirá que os usuários façam login em suas contas existentes ou criem uma nova conta. Haverá um formulário de login para inserir nome de usuário e senha, e um ícone para acessar o formulário de registro de novo usuário. O formulário de registro incluirá campos para nome, endereço, telefone e e-mail, e um botão para confirmar o registro. Após o registro, os clientes poderão acessar sua nova conta por meio de um ícone de login. A tela de novo usuário é importante para permitir que os clientes criem uma conta e aproveitem os benefícios personalizados oferecidos pela hamburgueria.
 <br>
@@ -69,7 +70,7 @@ A tela de login da hamburgueria permitirá que os usuários façam login em suas
 
 <h3>Tela Inicial</h3>
 
-![tela_inicial](https://github.com/gilvannas/projeto_vaquinha/assets/76489700/c310d241-a59e-487f-a640-a2b00ef76f2f)
+![tela_inicial](https://github.com/Cintiaafd/Projeto-integrador-Hamburgueria-Tasty-Burger/assets/76489700/92c4ee96-c8cd-468b-8727-d56280704a91)
 <br>
 Ao acessar o site da hamburgueria "Tasty Burger", o usuário encontrará uma barra de navegação clara e intuitiva que permite encontrar facilmente as informações desejadas, incluindo informações sobre a loja, cardápio, galeria de produtos, avaliações de clientes, setor de pedidos e login para clientes cadastrados. A parte principal do site apresentará informações sobre a hamburgueria, sua história e valores, incluindo uma descrição da fundação da empresa, seus desafios e conquistas ao longo do tempo, e sua missão, visão e valores. O rodapé da página conterá informações sobre a hamburgueria, como telefone, endereço, horário de funcionamento e suas redes sociais. Correção de erros de português foram realizadas.
 <br>
@@ -77,7 +78,7 @@ Ao acessar o site da hamburgueria "Tasty Burger", o usuário encontrará uma bar
 
 <h3>Tela Cardápio</h3>
 
-![tela-cardapio](https://github.com/gilvannas/projeto_vaquinha/assets/76489700/33c6fc04-3d0e-4707-8973-c356f353bcd3)
+![tela-cardapio](https://github.com/Cintiaafd/Projeto-integrador-Hamburgueria-Tasty-Burger/assets/76489700/4b7e873c-9104-4e96-9b34-2132cffd0447)
 <br>
 A página de cardápio é fundamental em um site de hamburgueria, já que permite aos clientes escolherem os produtos desejados. Nela, o usuário encontrará uma divisão clara dos produtos em categorias, com fotos atraentes e descrições detalhadas dos ingredientes, opções de personalização e preços. Há também opções vegetarianas e veganas, como hambúrgueres, saladas, bebidas e sobremesas.
 <br>
@@ -85,7 +86,7 @@ A página de cardápio é fundamental em um site de hamburgueria, já que permit
 
 <h3>Tela Galeria e avaliação dos clientes</h3>
 
-![tela-galeria-avalicao](https://github.com/gilvannas/projeto_vaquinha/assets/76489700/211ec7ad-07a4-4ca3-a14c-831df0bc4f4e)
+![tela-galeria-avalicao](https://github.com/Cintiaafd/Projeto-integrador-Hamburgueria-Tasty-Burger/assets/76489700/567dddf2-882f-4f53-9edf-5ec8c08da59e)
 <br>
 Na página de galeria de produtos da hamburgueria, os usuários poderão visualizar imagens atraentes dos produtos e ter uma ideia de como eles são preparados e servidos. A página conterá fotos atraentes dos hambúrgueres, acompanhamentos, bebidas e sobremesas em diferentes ângulos e apresentações, acompanhados de uma breve descrição destacando ingredientes, opções de personalização e preços. Além disso, os usuários poderão acessar a seção de avaliações de clientes, onde poderão ler as opiniões de outros consumidores sobre os produtos e serviços da empresa, com avaliações em estrelas e comentários sobre a experiência geral com a hamburgueria. Essa seção é crucial para o site, pois ajuda a transmitir a qualidade e confiabilidade da empresa para os clientes em potencial.
 <br>
@@ -93,7 +94,7 @@ Na página de galeria de produtos da hamburgueria, os usuários poderão visuali
 
 <h3>Tela de Pedido e equipe da empresa</h3>
 
-![tela_pedido_equipe](https://github.com/gilvannas/projeto_vaquinha/assets/76489700/130926ee-e284-464f-85c5-71e7969c38b5)
+![tela_pedido_equipe](https://github.com/Cintiaafd/Projeto-integrador-Hamburgueria-Tasty-Burger/assets/76489700/490e75b3-b475-4473-b8a3-420ac5e540df)
 <br>
 Na área de pedido, o usuário poderá selecionar os produtos desejados, preencher seus dados pessoais e os detalhes do pedido, como quantidade e valor. Ao clicar no ícone de compra, será direcionado para a área de finalização da compra. Também é possível acessar a seção de equipe, que contém informações dos funcionários da hamburgueria, incluindo descrições pessoais e fotos.
 
