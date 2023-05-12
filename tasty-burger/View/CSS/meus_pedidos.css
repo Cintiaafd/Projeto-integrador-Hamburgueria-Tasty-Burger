@@ -101,18 +101,23 @@ section nav .login a:hover {
 
 .meus_pedidos {
   width: 700px;
-  height: 1500px;
+  height: 1000px;
+
   background-image: url(../imagens/login_bg.png);
   background-position: center;
   background-size: cover;
   background-color: #ffffff;
   position: absolute;
-  top: 135%;
+  top: 98%;
   left: 50%;
   transform: translate(-50%, -50%);
   padding: 20px;
   border-radius: 10px;
   box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.2);
+}
+
+section #meuspedidos.meuspedidosBack {
+  background-image: url(../imagens/login_bg.png);
 }
 
 .meus_pedidos h1 {

@@ -147,6 +147,8 @@ div.msg-erro {
   width: 400px;
   margin: 10px auto;
   padding: 10px;
+  position: absolute;
+  margin-top: -100%;
   background-color: rgba(250, 128, 114, 0.3);
   border: 1px solid, rgb(165, 42, 42);
 }
